@@ -1,0 +1,321 @@
+{
+  "site": {
+    "phone": "78 122 15 05",
+    "workHours": "Пн. – Сб.: 9:00 – 18:00",
+    "i18n": {
+      "ru": {
+        "topTag": "Заказы изготавливаются от 3 до 10 дней",
+        "h1a": "ВНУТРЕННИЕ И",
+        "h1b": "НАРУЖНЫЕ",
+        "h2": "РЕКЛАМНЫЕ УСЛУГИ",
+        "badgeTitle": "2 ГОДА БЕСПЛАТНОГО СЕРВИСА",
+        "badgeText": "Мы предоставляем бесплатный сервис\nна наши услуги в течение 2 лет",
+        "cta": "РАССЧИТАТЬ ЦЕНУ",
+        "heroStats": [
+          {
+            "value": "7 лет",
+            "label": "Опыт компании"
+          },
+          {
+            "value": "30+",
+            "label": "Сотрудников специалистов"
+          },
+          {
+            "value": "600 м²",
+            "label": "Рабочее пространство"
+          },
+          {
+            "value": "500+",
+            "label": "Партнеров и клиентов"
+          },
+          {
+            "value": "2000+",
+            "label": "Реализованных проектов"
+          }
+        ],
+        "problems": {
+          "title": "ОСНОВНЫЕ ПРОБЛЕМЫ НАШИХ КЛИЕНТОВ:",
+          "subtitle": "Как мы можем довериться вам и качеству вашей работы?",
+          "items": [
+            "Из-за проблем в цеху происходит\nзадержка заказов",
+            "Клиент не может связаться с офисом\nили менеджером проекта",
+            "Качество готовой продукции не\nсоответствует требованиям",
+            "Некачественная работа и дефекта в\nпроцессе установки продукта",
+            "В этой сфере много мошенников. Вы\nне можете получить ни свои деньги, ни\nсвой продукт",
+            "Наличие дизайнерских и\nмаркетинговых ошибок и упущений"
+          ]
+        },
+        "solutions": {
+          "title": "У НАС ЕСТЬ РЕШЕНИЕ ВСЕМУ ЭТОМУ:",
+          "items": [
+            "Мы работаем с нашими клиентами на\nофициальной договорной основе",
+            "Наши операторы находятся в постоянном\nконтакте с нашими клиентами",
+            "У нас работают профессиональные мастера\nи креативные дизайнеры с 15-летним\nопытом",
+            "Для каждого проекта назначается проект-\nменеджер и ко всему подходит\nиндивидуально и процесс выполняется\nпоэтапно",
+            "Заказ будет выполнен в указанное время.\nМы начисляем 2% скидку за каждый\nотсроченный день",
+            "Так как мы используем новейшие\nтехнологии в производстве, мы гарантируем\nкачество продукта на 100%."
+          ]
+        },
+        "workflow": {
+          "title": "ПОРЯДОК РАБОТ",
+          "subtitle": "Мы всегда работаем над тем, чтобы сделать всё максимально простым и удобным для наших клиентов",
+          "steps": [
+            "Позвоните на наши номера или оформите заказ через сайт",
+            "Наши менеджеры свяжутся с вами и предоставят информацию о наших услугах и не только",
+            "Вы можете заказать, приехав к нам в офис или записаться на замер прямо с места установки",
+            "Мы разработаем дизайн, который должен быть проверен и одобрен Вами",
+            "После вашего подтверждения продукт будет изготовлен в течение 3–10 дней в зависимости от сложности",
+            "Мы доставим готовый продукт или же можете забрать его сами",
+            "Мы будем в постоянном контакте с вами на каждом этапе",
+            "Для постоянных клиентов предусмотрены бонусы и скидки"
+          ]
+        },
+        "services": {
+          "title": "НАШИ УСЛУГИ",
+          "btn": "ВСЕ УСЛУГИ",
+          "items": [
+            "ОБЪЁМНЫЕ БУКВЫ",
+            "ЛАЙТБОКСЫ",
+            "АВТОБРЕНДИНГ",
+            "НЕОНОВЫЕ ВЫВЕСКИ",
+            "РЕКЛАМНЫЕ СТЕНДЫ",
+            "КРЫШНЫЕ КОНСТРУКЦИИ",
+            "ТАБЛИЧКИ",
+            "ШИРОКОФОРМАТНАЯ ПЕЧАТЬ",
+            "ИНТЕРЬЕРНЫЕ РЕШЕНИЯ",
+            "МЕТАЛЛИЧЕСКИЕ БУКВЫ",
+            "РОВЕРНАЯ РЕЗКА",
+            "МЕТАЛЛИЧЕСКИЕ ЭМБЛЕМЫ"
+          ]
+        },
+        "letters": {
+          "title": "ОБЪЁМНЫЕ БУКВЫ",
+          "subtitle": "ПОЛУЧИТЕ 10% СКИДКУ ПРИ ЗАКАЗЕ\nОБЪЁМНЫХ БУКВ СЕЙЧАС!",
+          "p1": "Мы используем новейшие технологии",
+          "p2": "Гарантия качества от 6 месяцев до 2 лет",
+          "p3": "Более 650 изготовленных вывесок",
+          "tabA": "Акриловые",
+          "tabN": "Неоновые",
+          "lightingLabel": "Тип подсветки",
+          "colorLabel": "Цвет",
+          "heightLabel": "Высота",
+          "widthLabel": "Ширина",
+          "namePh": "Ваше имя",
+          "phonePh": "+998",
+          "btn": "ЗАКАЗАТЬ",
+          "sending": "ОТПРАВКА...",
+          "fill": "Заполните имя и телефон",
+          "sent": "✅ Отправлено! Мы свяжемся с вами.",
+          "err": "❌ Ошибка отправки",
+          "agree": "Нажимая «ЗАКАЗАТЬ», вы соглашаетесь на обработку данных",
+          "tgTitle": "🟥 ЗАЯВКА: ОБЪЁМНЫЕ БУКВЫ",
+          "tgTypeA": "Акриловые",
+          "tgTypeN": "Неоновые",
+          "tgType": "Тип",
+          "tgLighting": "Подсветка",
+          "tgColor": "Цвет",
+          "tgHeight": "Высота",
+          "tgWidth": "Ширина",
+          "tgName": "Имя",
+          "tgPhone": "Телефон",
+          "tgPage": "Страница",
+          "lightingOptions": [
+            {
+              "id": "logo",
+              "label": "Буквенная вывеска с логотипом"
+            },
+            {
+              "id": "front",
+              "label": "Лицевая подсветка"
+            },
+            {
+              "id": "back",
+              "label": "Контражурная подсветка"
+            }
+          ]
+        },
+        "partner": {
+          "small": "Оставьте свой номер и мы свяжемся с вами в ближайшее время",
+          "title": "ПОЛУЧИТЕ ПОДРОБНУЮ ИНФОРМАЦИЮ О ПАРТНЁРСТВЕ ОТ НАШИХ СПЕЦИАЛИСТОВ",
+          "note": "За заказы от 7 млн сумов — бесплатная доставка и установка по Ташкенту",
+          "nameLabel": "Имя:",
+          "phoneLabel": "Телефон:",
+          "namePh": "Введите имя",
+          "phonePh": "(___) ___-__-__",
+          "btn": "ОТПРАВИТЬ",
+          "sending": "ОТПРАВКА...",
+          "fill": "Введите имя и номер",
+          "sent": "✅ Заявка отправлена, мы свяжемся с вами",
+          "err": "❌ Ошибка отправки",
+          "tgTitle": "🤝 ЗАЯВКА НА ПАРТНЁРСТВО",
+          "tgName": "Имя",
+          "tgPhone": "Телефон",
+          "tgPage": "Страница"
+        },
+        "map": {
+          "addressTitle": "Адрес:",
+          "phoneTitle": "Телефон:",
+          "hoursTitle": "Рабочий график:",
+          "socialTitle": "Наши социальные сети:",
+          "formTitle": "Оставьте свой номер и мы свяжемся с вами в течение 15 минут",
+          "namePh": "Ваше имя:",
+          "phonePh": "+998",
+          "btn": "ОТПРАВИТЬ",
+          "sent": "✅ Отправлено!",
+          "err": "❌ Ошибка отправки",
+          "fill": "Введите имя и телефон"
+        }
+      },
+      "uz": {
+        "topTag": "Buyurtmalar 3 kundan 10 kungacha tayyorlanadi",
+        "h1a": "ICHKI VA",
+        "h1b": "TASHQI",
+        "h2": "REKLAMA XIZMATLARI",
+        "badgeTitle": "2 YIL BEPUL SERVIS",
+        "badgeText": "Biz xizmatlarimiz uchun\n2 yil davomida bepul servis beramiz",
+        "cta": "NARXNI HISOBLASH",
+        "heroStats": [
+          {
+            "value": "7 yil",
+            "label": "Kompaniya tajribasi"
+          },
+          {
+            "value": "30+",
+            "label": "Mutaxassis xodimlar"
+          },
+          {
+            "value": "600 m²",
+            "label": "Ish maydoni"
+          },
+          {
+            "value": "500+",
+            "label": "Hamkorlar va mijozlar"
+          },
+          {
+            "value": "2000+",
+            "label": "Bajarilgan loyihalar"
+          }
+        ],
+        "problems": {
+          "title": "MIJOZLARIMIZNING ASOSIY MUAMMOLARI:",
+          "subtitle": "Qanday qilib sizga va ishingiz sifatiga ishonamiz?",
+          "items": [
+            "Sexdagi muammolar sababli\nbuyurtmalar kechikadi",
+            "Mijoz ofis yoki loyiha menejeri\nbilan bog‘lana olmaydi",
+            "Tayyor mahsulot sifati\ntalablarga mos kelmaydi",
+            "Mahsulot o‘rnatish jarayonida\nsifatsiz ish va nuqsonlar",
+            "Bu sohada firibgarlar ko‘p. Siz\nna pulingizni, na mahsulotingizni\nololmaysiz",
+            "Dizayn va marketingdagi\nxatolar hamda kamchiliklar"
+          ]
+        },
+        "solutions": {
+          "title": "BIZDA BULARNING HAMMASIGA YECHIM BOR:",
+          "items": [
+            "Biz mijozlarimiz bilan rasmiy shartnoma\nasosida ishlaymiz",
+            "Operatorlarimiz mijozlarimiz bilan doimiy\naloqada bo‘ladi",
+            "Bizda 15 yillik tajribaga ega professional\nustalar va kreativ dizaynerlar ishlaydi",
+            "Har bir loyiha uchun loyiha-menejer\nbiriktiriladi, hamma narsa individual\nyondashuv bilan bosqichma-bosqich\nbajariladi",
+            "Buyurtma belgilangan vaqtda tayyor bo‘ladi.\nHar kechiktirilgan kun uchun 2% chegirma\nberamiz",
+            "Ishlab chiqarishda eng yangi texnologiyalarni\nqo‘llaganimiz uchun mahsulot sifatini\n100% kafolatlaymiz"
+          ]
+        },
+        "workflow": {
+          "title": "ISH TARTIBI",
+          "subtitle": "Biz har doim mijozlarimiz uchun jarayonni iloji boricha qulay va oddiy qilishga intilamiz",
+          "steps": [
+            "Bizning raqamlarimizga qo‘ng‘iroq qiling yoki sayt orqali buyurtma bering",
+            "Menejerlarimiz siz bilan bog‘lanib, xizmatlarimiz haqida to‘liq ma’lumot beradi",
+            "Ofisimizga kelib buyurtma berishingiz yoki o‘rnatish joyidan o‘lchovga yozilishingiz mumkin",
+            "Biz siz tasdiqlashingiz kerak bo‘lgan dizaynni ishlab chiqamiz",
+            "Tasdiqlangandan so‘ng mahsulot murakkabligiga qarab 3–10 kun ichida tayyorlanadi",
+            "Tayyor mahsulotni yetkazib beramiz yoki o‘zingiz olib ketishingiz mumkin",
+            "Har bir bosqichda siz bilan doimiy aloqada bo‘lamiz",
+            "Doimiy mijozlar uchun bonus va chegirmalar mavjud"
+          ]
+        },
+        "services": {
+          "title": "BIZNING XIZMATLAR",
+          "btn": "BARCHA XIZMATLAR",
+          "items": [
+            "HAJMli HARFLAR",
+            "LAYTBOKSLAR",
+            "AVTOBRENDING",
+            "NEON YOZUVLAR",
+            "REKLAMA STENDLARI",
+            "TOM KONSTRUKSIYALARI",
+            "TABLICHKALAR",
+            "KENG FORMATLI BOSMA",
+            "INTERYER YECHIMLARI",
+            "METALL HARFLAR",
+            "ROVER KESISH",
+            "METALL EMBLEMLAR"
+          ]
+        },
+        "letters": {
+          "title": "HAJMli HARFLAR",
+          "subtitle": "HAJMli HARFLARGA BUYURTMA BERING VA\n10% CHEGIRMA OLING!",
+          "p1": "Biz eng yangi texnologiyalardan foydalanamiz",
+          "p2": "Sifat kafolati: 6 oydan 2 yilgacha",
+          "p3": "650+ dan ortiq tayyorlangan reklama yozuvlari",
+          "tabA": "Akril",
+          "tabN": "Neon",
+          "lightingLabel": "Yoritish turi",
+          "colorLabel": "Rang",
+          "heightLabel": "Balandlik",
+          "widthLabel": "Kenglik",
+          "namePh": "Ismingiz",
+          "phonePh": "+998",
+          "btn": "BUYURTMA BERISH",
+          "sending": "YUBORILMOQDA...",
+          "fill": "Ism va telefonni kiriting",
+          "sent": "✅ Yuborildi! Tez orada bog‘lanamiz.",
+          "err": "❌ Yuborishda xatolik",
+          "agree": "«BUYURTMA BERISH» tugmasini bosish orqali, ma’lumotlarni qayta ishlashga rozilik bildirasiz",
+          "tgTitle": "🟥 SO‘ROV: HAJMli HARFLAR",
+          "tgTypeA": "Akril",
+          "tgTypeN": "Neon",
+          "tgType": "Turi",
+          "tgLighting": "Yoritish",
+          "tgColor": "Rang",
+          "tgHeight": "Balandlik",
+          "tgWidth": "Kenglik",
+          "tgName": "Ism",
+          "tgPhone": "Telefon",
+          "tgPage": "Sahifa",
+          "lightingOptions": [
+            {
+              "id": "logo",
+              "label": "Logotipli harfli yozuv"
+            },
+            {
+              "id": "front",
+              "label": "Old tomondan yoritish"
+            },
+            {
+              "id": "back",
+              "label": "Orqa tomondan yoritish"
+            }
+          ]
+        },
+        "partner": {
+          "small": "Raqamingizni qoldiring — tez orada bog‘lanamiz",
+          "title": "HAMKORLIK BO‘YICHA MUTAXASSISLARIMIZDAN BATAFSIL MA’LUMOT OLING",
+          "note": "7 mln so‘mdan yuqori buyurtmalarga — Toshkent bo‘yicha bepul yetkazib berish va o‘rnatish",
+          "nameLabel": "Ism:",
+          "phoneLabel": "Telefon:",
+          "namePh": "Ismingizni kiriting",
+          "phonePh": "(___) ___-__-__",
+          "btn": "YUBORISH",
+          "sending": "YUBORILMOQDA...",
+          "fill": "Ism va raqamni kiriting",
+          "sent": "✅ So‘rov yuborildi, bog‘lanamiz",
+          "err": "❌ Yuborishda xatolik",
+          "tgTitle": "🤝 HAMKORLIK SO‘ROVI",
+          "tgName": "Ism",
+          "tgPhone": "Telefon",
+          "tgPage": "Sahifa"
+        }
+      }
+    }
+  }
+}
