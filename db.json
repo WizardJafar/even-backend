@@ -168,6 +168,20 @@
           "sent": "✅ Отправлено!",
           "err": "❌ Ошибка отправки",
           "fill": "Введите имя и телефон"
+        },
+        "exhibitionStands": {
+          "title": "ВЫСТАВОЧНЫЕ СТЕНДЫ",
+          "orderBtn": "Заказать",
+          "items": [
+            { "name": "ПАУК средний", "size": "160×60 см", "price": "450 000 UZS", "isNew": false },
+            { "name": "ПАУК большой", "size": "180×75 см", "price": "550 000 UZS", "isNew": false },
+            { "name": "РОЛЛ-АП Евро", "size": "200×75 см", "price": "1 500 000 UZS", "isNew": false },
+            { "name": "РОЛЛ-АП Евро", "size": "200×150 см", "price": "2 200 000 UZS", "isNew": false },
+            { "name": "РОЛЛ-АП Двухсторонний", "size": "200×150 см", "price": "2 500 000 UZS", "isNew": true },
+            { "name": "ПОП-АП вогнутый", "size": "335×230 см", "price": "7 600 000 UZS", "isNew": false },
+            { "name": "ВИНДЕР флагшток", "size": "Полотно 290×70 см / Общая высота 320 см", "price": "1 250 000 UZS", "isNew": true },
+            { "name": "ПРОМО СТОЙКА", "size": "189×90 см", "price": "2 850 000 UZS", "isNew": false }
+          ]
         }
       },
       "uz": {
@@ -322,6 +336,20 @@
           "tgName": "Ism",
           "tgPhone": "Telefon",
           "tgPage": "Sahifa"
+        },
+        "exhibitionStands": {
+          "title": "KO'RGAZMA STENDLARI",
+          "orderBtn": "Buyurtma berish",
+          "items": [
+            { "name": "O'RTA O'RGIMCHAK", "size": "160×60 sm", "price": "450 000 UZS", "isNew": false },
+            { "name": "KATTA O'RGIMCHAK", "size": "180×75 sm", "price": "550 000 UZS", "isNew": false },
+            { "name": "ROLL-UP Evro", "size": "200×75 sm", "price": "1 500 000 UZS", "isNew": false },
+            { "name": "ROLL-UP Evro", "size": "200×150 sm", "price": "2 200 000 UZS", "isNew": false },
+            { "name": "ROLL-UP Ikki tomonlama", "size": "200×150 sm", "price": "2 500 000 UZS", "isNew": true },
+            { "name": "POP-UP botiq", "size": "335×230 sm", "price": "7 600 000 UZS", "isNew": false },
+            { "name": "VINDER bayroqchasi", "size": "Mato 290×70 sm / Umumiy balandlik 320 sm", "price": "1 250 000 UZS", "isNew": true },
+            { "name": "PROMO STEND", "size": "189×90 sm", "price": "2 850 000 UZS", "isNew": false }
+          ]
         }
       }
     },
